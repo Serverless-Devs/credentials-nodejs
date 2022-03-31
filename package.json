@@ -1,5 +1,5 @@
 {
-  "name": "@alicloud/credentials",
+  "name": "@serverless-devs/credentials",
   "version": "2.2.1",
   "description": "alibaba cloud node.js sdk credentials",
   "main": "dist/client.js",
