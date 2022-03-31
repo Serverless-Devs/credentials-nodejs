@@ -22,6 +22,10 @@
     "sdk",
     "credentials"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "author": "Alibaba Cloud SDK",
   "license": "MIT",
   "devDependencies": {
