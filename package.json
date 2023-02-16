@@ -2,7 +2,7 @@
   "name": "@serverless-devs/credentials",
   "version": "2.2.6",
   "description": "alibaba cloud node.js sdk credentials",
-  "main": "dist/src/client.js",
+  "main": "dist/client.js",
   "scripts": {
     "prepublishOnly": "tsc",
     "build": "tsc",
